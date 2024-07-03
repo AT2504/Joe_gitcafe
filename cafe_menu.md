@@ -13,3 +13,4 @@
  ## Specials
  - Banofee Pie 
  - Iced Tea 
+- Signature Latte
